@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header"/>
-
-<br>
-
-✦　✦　✦
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="giphy.com/gifs/coogfans-beautiful-pixel-art-LXxWO0pgGEma8W40A9" width="100%">
 
 </div>
