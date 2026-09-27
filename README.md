@@ -1,11 +1,16 @@
 <div align="center">
 
-# 👋 Hello there!
+# 👋 Welcome! ✨
 
-### Welcome to my little corner of GitHub ✨
 
-<img src="./images/totoro.gif" width="480">
+### 🌿 Take a breath. Stay awhile. ☕
+### ✨ Explore • Discover • Enjoy
 
 <img src="https://media.giphy.com/media/C3gZCY92Cwyxq/giphy.gif" width="480">
+
+<br>
+
+❄️　🌿　✨　☕　🌙　✨　🌿　❄️
+
 
 </div>
