@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="https://i.giphy.com/LXxWO0pgGEma8W40A9.gif" width="533">
+<img src="https://giphy.com/gifs/xbox-game-xbox-series-x-s-XiFjqlQq9K5oQVeXQB" width="533">
 
 </div>
