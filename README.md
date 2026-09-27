@@ -1,17 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header"/>
 
-</div>
+<br>
 
-<div align="center">
+✦　✦　✦
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,mongodb,linux,docker,aws" />
+<br><br>
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
